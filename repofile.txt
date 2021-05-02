@@ -1,3 +1,4 @@
 testfile common/testfile.txt
 othertestfile common/othertestfile.txt
 repofile repofile
+lightcord-nt lightcord.exe.xz
